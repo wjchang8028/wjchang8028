@@ -31,5 +31,3 @@ https://www.notion.so/99f54047112443b390c481001db7b7a5
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjchang8028&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjchang8028&layout=compact&hide=Jupyter%20Notebook,Tcl&card_width=445&langs_count=20)
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hwisaek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
