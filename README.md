@@ -1,10 +1,11 @@
 ### Notion portfolio
+---
 https://www.notion.so/99f54047112443b390c481001db7b7a5
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwisaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Tech Stack
-
+---
 <!-- 로고 사이트: https://shields.io/ https://simpleicons.org/ -->
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
