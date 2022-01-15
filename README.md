@@ -7,7 +7,7 @@ https://nutritious-coriander-cca.notion.site/99f54047112443b390c481001db7b7a5.
 
 ### Tech Stack
 ---
-<!-- 로고 사이트: https://shields.io/ https://simpleicons.org/ -->
+<!-- 로고 사이트.: https://shields.io/ https://simpleicons.org/ -->
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
