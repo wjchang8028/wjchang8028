@@ -3,7 +3,7 @@
 https://nutritious-coriander-cca.notion.site/99f54047112443b390c481001db7b7a5.
 ### Today
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwisaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwisaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Tech Stack
 ---
@@ -32,7 +32,7 @@ https://nutritious-coriander-cca.notion.site/99f54047112443b390c481001db7b7a5.
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjchang8028&show_icons=true&theme=radical&include_all_commits=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjchang8028&layout=compact&hide=Jupyter%20Notebook,Tcl&card_width=445&langs_count=20) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjchang8028&langs_count=14&layout=compact&card_width=445&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjchang8028&langs_count=15&layout=compact&card_width=445&theme=dark)
 
 
 
