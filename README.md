@@ -32,7 +32,7 @@ https://nutritious-coriander-cca.notion.site/99f54047112443b390c481001db7b7a5.
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjchang8028&show_icons=true&theme=radical&include_all_commits=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjchang8028&layout=compact&hide=Jupyter%20Notebook,Tcl&card_width=445&langs_count=20) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjchang8028&langs_count=15&layout=compact&card_width=445&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjchang8028&langs_count=20&layout=compact&card_width=445&theme=dark)
 
 
 
