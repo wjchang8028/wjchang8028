@@ -1,6 +1,6 @@
 ### Notion portfolio
 ---
-[Notion] : https://nutritious-coriander-cca.notion.site/99f54047112443b390c481001db7b7a5 </br>
+[Notion] : https://nutritious-coriander-cca.notion.site/99f54047112443b390c481001db7b7a5 </br> 수정
 [Blog]   : https://wjchung0828.tistory.com
 ### Today
 ---
